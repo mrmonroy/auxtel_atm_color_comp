@@ -1,0 +1,38 @@
+# Ignorar directorios y archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignorar archivos temporales o sin nombre
+Untitled.ipynb
+*Untitled*
+
+# Ignorar imágenes y plots generados automáticamente
+output_plots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignorar archivos de entorno virtual de Python
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de sistema (macOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de IDE (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar archivos de datos o logs
+*.log
+*.csv
+*.dat
+/data/
