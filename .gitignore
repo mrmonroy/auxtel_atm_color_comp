@@ -35,4 +35,4 @@ Thumbs.db
 *.log
 *.csv
 *.dat
-/data/
+#/data/
