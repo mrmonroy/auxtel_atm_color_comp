@@ -35,4 +35,4 @@ Thumbs.db
 *.log
 *.csv
 *.dat
-#/data/SNIa_spectra/
+/data/SNIa_spectra/
